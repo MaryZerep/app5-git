@@ -8,4 +8,4 @@ $(document).ready(function(e){
 			navigator.notificacion.vibrate(2000);
 		}); //cierre del vibrar
 	},false);//cierre del deviceready
-});//cierre ready
+}); //cierre ready
